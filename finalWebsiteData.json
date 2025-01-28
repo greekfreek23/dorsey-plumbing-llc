@@ -1,0 +1,26 @@
+{
+  "finalWebsiteData": [{
+    "siteId": "ChIJeTIrzE1TrKMRCq-vILpE01A",
+    "businessName": "Dorsey Plumbing LLC",
+    "phone": "+1 470-489-8841",
+    "city": "Opelika",
+    "state": "AL",
+    "postalCode": "36801",
+    "rating": 5,
+    "reviewsCount": 2,
+    "reviewsLink": "https://search.google.com/local/reviews?placeid=ChIJeTIrzE1TrKMRCq-vILpE01A",
+    "workingHours": {
+      "Monday": "7AM-5PM",
+      "Tuesday": "7AM-5PM",
+      "Wednesday": "7AM-5PM",
+      "Thursday": "7AM-5PM",
+      "Friday": "7AM-5PM",
+      "Saturday": "Closed",
+      "Sunday": "Closed"
+    },
+    "aboutUs": "Dorsey Plumbing LLC is your trusted local plumbing service in Opelika, AL. With expert service and professional results, we handle all your plumbing needs.",
+    "photos": {
+      "logo": "https://lh6.googleusercontent.com/-25pYWHqDxsk/AAAAAAAAAAI/AAAAAAAAAAA/iDpDj1Ac4GE/s44-p-k-no-ns-nd/photo.jpg"
+    }
+  }]
+}
